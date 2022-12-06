@@ -6,3 +6,4 @@ sklearn-pandas==2.2.0
 
 streamlit==1.12.2
                            
+IPython==8.2.0
