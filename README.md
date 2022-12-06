@@ -10,7 +10,7 @@
 ## Note:
 ***Have used the Popularity & Collaborative based filtering method to build a book recommender system for this project.*** 
 
-
+### 
 **Successfully build the model, and deployed on streamlit-cloud**
 
 *Link to app: * 
