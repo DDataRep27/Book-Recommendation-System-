@@ -1,0 +1,8 @@
+statsmodels==0.13.2
+
+scikit-learn==1.1.1
+
+sklearn-pandas==2.2.0
+
+streamlit==1.12.2
+                           
