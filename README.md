@@ -13,4 +13,4 @@
 ### 
 **Successfully build the model, and deployed on streamlit-cloud**
 
-*Link to app: * 
+*Link to app: https://ddatarep27-book-recommendation-system--dr-book-recommend-ks1fvl.streamlit.app/* 
