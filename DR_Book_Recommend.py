@@ -1,4 +1,4 @@
-
+#ML-App for Recommendation Engine - Books!!
 #Import Libraries
 import pandas as pd
 import streamlit as st 
@@ -8,6 +8,8 @@ from PIL import Image
 from IPython.core.display import HTML
 from PIL import Image
 
+#Web Page Configuration
+st.set_page_config(page_title=("DR Book Recommend"))
 
 #Image on webpage
 img = Image.open("grt.jpg")
